@@ -1,6 +1,6 @@
 #### CommonJS: A format optimized for the Server ####
 
-##### From (Writing Modular JavaScript)[https://addyosmani.com/writing-modular-js/]
+##### From [Writing Modular JavaScript](https://addyosmani.com/writing-modular-js/)
 
 CommonJS is a volunteer working group aiming to design, prototype, and standardize JavaScript APIs. To date they've proposed standards for both Modules and Packages.
 
