@@ -24,6 +24,7 @@ var buf = Buffer("Hello World");
 var buf = Buffer("Hello World", 'base64');
 ```
 Accepted buffer encodings:
+
 1. ascii—ASCII. This encoding is limited to the ASCII character set.
 2. utf8—UTF-8. This is a variable width encoding that can represent every character in the Unicode character set. It has become the dominant encoding on the web. This is the default encoding if you don’t specify one.
 3. base64—Base64. This encoding is used to represent binary data in an ASCII string format by translating it into a radix-64 representation. Base64 is commonly used to embed binary data into textual documents in a way that ensures that the data remains intact during transport.
